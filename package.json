@@ -29,6 +29,7 @@
     "critical": "^1.3.9",
     "cssesc": "^3.0.0",
     "del-cli": "^3.0.0",
+    "eleventy-plugin-mdx-alpha": "git+https://github.com/MadeByMike/eleventy-plugin-mdx.git",
     "focus-trap": "^5.1.0",
     "focus-visible": "^5.1.0",
     "html-minifier": "^4.0.0",

@@ -1,6 +1,6 @@
 const pluginRss = require('@11ty/eleventy-plugin-rss')
 const pluginNavigation = require('@11ty/eleventy-navigation')
-const pluginMDX = require('./plugins/eleventy-plugin-mdx')
+const pluginMDX = require('eleventy-plugin-mdx-alpha')
 const markdownIt = require('markdown-it')
 
 const filters = require('./utils/filters.js')
